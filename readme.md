@@ -8,6 +8,10 @@ This is a frontend mentor challenge that consists of creating an card component.
 - Css
 - AOS (Animate On Scroll Library)
 
+## Demo
+
+[![Demo](https://img.shields.io/badge/LINK-482576?style=for-the-badge)](https://hectorfjaenz.github.io/FrontEndMentorChallenges-OrderSummaryComponent/)
+
 ## Screenshots
 Mobile Device
 ![](images/Screenshot%20Order%20Summary%20Component%20Cellphone.png)
